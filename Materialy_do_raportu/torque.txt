@@ -1,0 +1,2 @@
+zad2_0st_1
+Torque about (0,0): 1.47348 N*m
