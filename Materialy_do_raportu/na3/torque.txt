@@ -1,0 +1,31 @@
+zad2_0st_0.75
+Lorentz: Torque about (0,0): 0 N*m
+Torque via weighted stress tensor: Torque about (0,0): 1.46073 N*m
+
+zad2_45st_0.75
+Torque about (0,0): 0 N*m
+Torque via weighted stress tensor: Torque about (0,0): -23.012 N*m
+
+zad2_90st_0.75
+Torque about (0,0): 0 N*m
+Torque via weighted stress tensor: Torque about (0,0): 13.7207 N*m
+
+zad2_135st_0.75
+Torque about (0,0): 0 N*m
+Torque via weighted stress tensor: Torque about (0,0): 11.395 N*m
+
+zad2_180st_0.75
+Torque about (0,0): 0 N*m
+Torque via weighted stress tensor: Torque about (0,0): 1.46 N*m
+
+zad2_225st_0.75
+Torque about (0,0): 0 N*m
+Torque via weighted stress tensor: Torque about (0,0): -23.0214 N*m
+
+zad2_270st_0.75
+Torque about (0,0): 0 N*m
+Torque via weighted stress tensor: Torque about (0,0): 13.7214 N*m
+
+zad2_270st_0.75
+Torque about (0,0): 0 N*m
+Torque via weighted stress tensor: Torque about (0,0): 11.3595 N*m
